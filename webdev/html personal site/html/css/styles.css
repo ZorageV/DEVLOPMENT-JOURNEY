@@ -1,0 +1,37 @@
+body
+{
+    background-color: #3F0071;
+}
+hr
+{
+    border-style: dotted none none none;
+    border-width: 10px;
+    border-color: #b98be0;
+    height: 0px;
+    width: 5%;
+}
+h2
+{
+    color: #FB2576;
+}
+p
+{
+    color: aliceblue;
+}
+td
+{
+    color: aliceblue;
+}
+ul
+{
+    color: aliceblue;
+}
+a
+{
+    color: aqua;
+}
+td
+{
+    color: aliceblue;
+    font-family: sans-serif;
+}
