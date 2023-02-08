@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: red;
+    font-style: italic;
+}
+
+p {
+    color: hotpink;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+.circular:hover{
+    background-color: black;
+}
